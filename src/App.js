@@ -5,7 +5,6 @@ import Json from "./file.json";
 function App() {
 
   const data = Json;
-  console.log(data)
 
   return (
     <div id='App'>
